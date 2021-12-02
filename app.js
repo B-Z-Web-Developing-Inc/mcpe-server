@@ -11,9 +11,9 @@ var MAGIC_VALUE = [0x00, 0xff, 0xff, 0x00, 0xfe, 0xfe, 0xfe, 0xfe, 0xfd, 0xfd, 0
 var config={
   serverName: settings.name,
   maxPlayers: settings.maxPlayers,
-  currentPlayers: 10, //TODO: real value
+  currentPlayers: 50, //TODO: real value
   minecraftVersion: settings.version,
-  protocolVersion: "7"
+  protocolVersion: "475"
 };
 
 server.on('listen', function () {
