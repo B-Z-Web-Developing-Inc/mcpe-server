@@ -1,6 +1,6 @@
 {
-  "name": "A Minecraft PE Server",
+  "name": "ZWrld",
   "port": 19132,
-  "maxPlayers": 10,
-  "version": "Baby squid"
+  "maxPlayers": 50,
+  "version": "1.18.0"
 }
